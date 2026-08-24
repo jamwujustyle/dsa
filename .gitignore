@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.md
+practice_backups/
+
+# Canvas submissions, source PDFs, and local revision checks stay local.
+/assignments/
+/*.pdf
+/tests/
+/.ipynb_checkpoints/
